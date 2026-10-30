@@ -37,6 +37,12 @@
       "skillPath": "skills/hyperframes-cli/SKILL.md",
       "computedHash": "790c35708f9c7891e79a68d5fb3f05ab4d42743ac2348daf81a76300d3607818"
     },
+    "hyperframes-registry": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": "skills/hyperframes-registry/SKILL.md",
+      "computedHash": "0517125857b29759206962aecb85aa808fd267949233f20be37960a98974edfb"
+    },
     "media-use": {
       "source": "heygen-com/hyperframes",
       "sourceType": "github",
