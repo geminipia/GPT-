@@ -48,6 +48,12 @@
       "sourceType": "github",
       "skillPath": "skills/media-use/SKILL.md",
       "computedHash": "2043599afaf2d0b12fff13396f5e6f039ec44597c27e1631387a613d721a2126"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "computedHash": "a6a44d5498f7e8f68289902f3dedfc6f38ae0cee1e96527c80724cf27f727c2a"
     }
   }
 }
