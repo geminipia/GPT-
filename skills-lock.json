@@ -7,6 +7,12 @@
       "skillPath": "tools/video/ai-video-generation/SKILL.md",
       "computedHash": "8524cc49ad3dca2a4502903234061b307636e44b08496e982747cdb9590f5556"
     },
+    "cut-the-curve": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/cut-the-curve/SKILL.md",
+      "computedHash": "f6ce9dbbbc037afa3f9c04620c0e8b838edd99bb2a5e72c9504dbc891fcfc99f"
+    },
     "design-mobile-apps": {
       "source": "designed-by-ai/skills",
       "sourceType": "github",
@@ -48,6 +54,12 @@
       "sourceType": "github",
       "skillPath": "skills/media-use/SKILL.md",
       "computedHash": "2043599afaf2d0b12fff13396f5e6f039ec44597c27e1631387a613d721a2126"
+    },
+    "motion-doctrine": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/motion-doctrine/SKILL.md",
+      "computedHash": "28d51d95e6bd0c808961cd6ced29e11a09f10f7711133ff86e9eb10f45c30ee2"
     },
     "web-design-guidelines": {
       "source": "vercel-labs/agent-skills",
