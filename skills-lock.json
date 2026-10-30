@@ -7,6 +7,18 @@
       "skillPath": "tools/video/ai-video-generation/SKILL.md",
       "computedHash": "8524cc49ad3dca2a4502903234061b307636e44b08496e982747cdb9590f5556"
     },
+    "captions-overlay": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/captions-overlay/SKILL.md",
+      "computedHash": "0b2a08fafef5f298be649dcd6ab24110e6f278b647cfbdaadd9c43be884e0336"
+    },
+    "changelog-video": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/changelog-video/SKILL.md",
+      "computedHash": "5d99c41262cbddb1efd3ef427781a8ee1c81b0ce8e9bc75d7a75f22e621c9ed0"
+    },
     "cut-the-curve": {
       "source": "heygen-com/hyperframes",
       "sourceType": "github",
@@ -18,6 +30,12 @@
       "sourceType": "github",
       "skillPath": "skills/design-mobile-apps/SKILL.md",
       "computedHash": "6d6ed68c53ac9f5564aea489ededb387b8cdf29ffa6f78f2a1fa449f86f19e16"
+    },
+    "figma": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": "skills/figma/SKILL.md",
+      "computedHash": "898884228cf905eedc1aac9d5d059f28c66c711ec4b950f627ec3d495c304da3"
     },
     "find-skills": {
       "source": "vercel-labs/skills",
@@ -60,6 +78,30 @@
       "sourceType": "github",
       "skillPath": ".agents/skills/motion-doctrine/SKILL.md",
       "computedHash": "28d51d95e6bd0c808961cd6ced29e11a09f10f7711133ff86e9eb10f45c30ee2"
+    },
+    "oversized-cursor": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/oversized-cursor/SKILL.md",
+      "computedHash": "d541421084d97bfc561a9f5038989f9a7f258852c3f2b34e2f21645d178686cb"
+    },
+    "remotion-to-hyperframes": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": "skills/remotion-to-hyperframes/SKILL.md",
+      "computedHash": "35f4cdb6e369a58bfb3683bc242a0391538c1e407fd933bbdf25b9c761253f08"
+    },
+    "seam-craft": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/seam-craft/SKILL.md",
+      "computedHash": "804301a553cf69ff45c31e373e882461886f3c8a6bb6e3b85725f9eac77cf559"
+    },
+    "slideshow": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": "skills/slideshow/SKILL.md",
+      "computedHash": "2cce5d13b634a742a25e62a1d78366ee97d0bf51a708eb4746e44a0579a3b6a7"
     },
     "web-design-guidelines": {
       "source": "vercel-labs/agent-skills",
